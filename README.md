@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at IBM-JTI
-- 🌱 I’m currently learning Quantum Computing
-- 👯 I’m looking to collaborate on Rust or Quantum Computing project
-- 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanifanrn)
+- 🔭 I’m a master student at Debrecen University with major in Data Science
+- 👯 I’m looking to collaborate on Rust or AI related project
+- 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanriman)
 
 ### :zap: GitHub Stats
 
 <p align="left">
-<a href="https://github.com/hanifanrn">
+<a href="https://github.com/hanriman">
 <!--   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanifanrn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanifanrn&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css,scss,makefile"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanriman&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css,scss,makefile"/>
 </a>
 </p>
