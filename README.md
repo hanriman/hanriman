@@ -1,4 +1,4 @@
-### Hi there, welcome to Hanif Github 👋
+### Hi there, welcome to Han's Github 👋
 
 <!--
 **hanifanrn/hanifanrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a master student at Debrecen University with major in Data Science
-- 👯 I’m looking to collaborate on Rust or AI related project
+- 🔭 I’m a master's student at Debrecen University with a major in Data Science
+- 👯 I’m looking to collaborate on Rust or AI-related projects
 - 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanriman)
 
 ### :zap: GitHub Stats
