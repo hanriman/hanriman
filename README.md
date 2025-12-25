@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a master's student at Debrecen University with a major in Data Science
-- 👯 I’m looking to collaborate on Rust or AI-related projects
-- 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanriman)
+-  I’m a master's student at Debrecen University with a major in Data Science
+-  I’m looking to collaborate on Rust or AI-related projects
+-  How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanriman)
 
-### :zap: GitHub Stats
+### GitHub Stats
 
 <p align="left">
 <a href="https://github.com/hanriman">
